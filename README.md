@@ -127,6 +127,8 @@ pip install -r requirements.txt
 Run ThreatWatch on the default network interface:
 
 ```bash
+source venv/bin/activate
+sudo venv/bin/python main.py
 sudo python3 main.py
 ```
 
