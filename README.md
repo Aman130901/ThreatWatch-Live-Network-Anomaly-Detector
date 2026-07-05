@@ -233,6 +233,12 @@ ThreatWatch is intended for educational use and monitoring networks you own or a
 
 ---
 
+## 📄 License
+ 
+MIT License — see the LICENSE file for details.
+
+---
+
 ## 👤 Author
 
 **Aman Sonkar**
